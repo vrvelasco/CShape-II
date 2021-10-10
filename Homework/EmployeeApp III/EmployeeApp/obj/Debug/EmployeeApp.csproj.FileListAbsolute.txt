@@ -1,0 +1,21 @@
+E:\Homework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+E:\Homework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+E:\Homework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+E:\Homework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\Homework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+E:\Homework\EmployeeApp II\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+E:\Homework\EmployeeApp II\EmployeeApp\bin\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp II\EmployeeApp\bin\Debug\EmployeeApp.pdb
+E:\Homework\EmployeeApp II\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+E:\Homework\EmployeeApp II\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\Homework\EmployeeApp II\EmployeeApp\obj\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp II\EmployeeApp\obj\Debug\EmployeeApp.pdb
+E:\Homework\EmployeeApp III\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+E:\Homework\EmployeeApp III\EmployeeApp\bin\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp III\EmployeeApp\bin\Debug\EmployeeApp.pdb
+E:\Homework\EmployeeApp III\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+E:\Homework\EmployeeApp III\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\Homework\EmployeeApp III\EmployeeApp\obj\Debug\EmployeeApp.exe
+E:\Homework\EmployeeApp III\EmployeeApp\obj\Debug\EmployeeApp.pdb

@@ -1,0 +1,7 @@
+D:\Week 05\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe.config
+D:\Week 05\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe
+D:\Week 05\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.pdb
+D:\Week 05\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.csproj.AssemblyReference.cache
+D:\Week 05\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.csproj.CoreCompileInputs.cache
+D:\Week 05\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.exe
+D:\Week 05\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.pdb

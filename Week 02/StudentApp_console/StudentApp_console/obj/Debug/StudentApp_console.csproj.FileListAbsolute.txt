@@ -1,0 +1,7 @@
+D:\Week 2\StudentApp_console\StudentApp_console\bin\Debug\StudentApp_console.exe.config
+D:\Week 2\StudentApp_console\StudentApp_console\bin\Debug\StudentApp_console.exe
+D:\Week 2\StudentApp_console\StudentApp_console\bin\Debug\StudentApp_console.pdb
+D:\Week 2\StudentApp_console\StudentApp_console\obj\Debug\StudentApp_console.csproj.AssemblyReference.cache
+D:\Week 2\StudentApp_console\StudentApp_console\obj\Debug\StudentApp_console.csproj.CoreCompileInputs.cache
+D:\Week 2\StudentApp_console\StudentApp_console\obj\Debug\StudentApp_console.exe
+D:\Week 2\StudentApp_console\StudentApp_console\obj\Debug\StudentApp_console.pdb

@@ -1,0 +1,21 @@
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe.config
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.pdb
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csprojAssemblyReference.cache
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csproj.CoreCompileInputs.cache
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.exe
+C:\Users\timbr\OneDrive\1211\262\working\week6\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.pdb
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe.config
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.pdb
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csprojAssemblyReference.cache
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csproj.CoreCompileInputs.cache
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.exe
+C:\Users\timbr\OneDrive - swic.edu\262\working\week6\work1\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.pdb
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe.config
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.exe
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\bin\Debug\StudentsApp_console.pdb
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csproj.AssemblyReference.cache
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.csproj.CoreCompileInputs.cache
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.exe
+D:\Week 06\StudentsAppPt4_starter\StudentsApp_console\StudentsApp_console\obj\Debug\StudentsApp_console.pdb

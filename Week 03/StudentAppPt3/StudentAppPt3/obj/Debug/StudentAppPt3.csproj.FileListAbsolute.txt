@@ -1,0 +1,7 @@
+D:\Week 3\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.exe.config
+D:\Week 3\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.exe
+D:\Week 3\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.pdb
+D:\Week 3\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.csproj.AssemblyReference.cache
+D:\Week 3\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.csproj.CoreCompileInputs.cache
+D:\Week 3\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.exe
+D:\Week 3\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.pdb

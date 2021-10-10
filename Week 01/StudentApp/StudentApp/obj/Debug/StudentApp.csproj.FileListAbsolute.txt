@@ -1,0 +1,10 @@
+D:\Week 1\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+D:\Week 1\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+D:\Week 1\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+D:\Week 1\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
