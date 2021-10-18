@@ -1,0 +1,7 @@
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\bin\Debug\SavingsAccount.exe.config
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\bin\Debug\SavingsAccount.exe
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\bin\Debug\SavingsAccount.pdb
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\obj\Debug\SavingsAccount.csproj.AssemblyReference.cache
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\obj\Debug\SavingsAccount.csproj.CoreCompileInputs.cache
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\obj\Debug\SavingsAccount.exe
+C:\Users\Victor Velasco\Desktop\SavingsAccount\SavingsAccount\obj\Debug\SavingsAccount.pdb
