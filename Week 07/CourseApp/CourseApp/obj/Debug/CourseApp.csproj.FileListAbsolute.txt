@@ -1,0 +1,7 @@
+D:\Week 07\CourseApp\CourseApp\bin\Debug\CourseApp.exe.config
+D:\Week 07\CourseApp\CourseApp\bin\Debug\CourseApp.exe
+D:\Week 07\CourseApp\CourseApp\bin\Debug\CourseApp.pdb
+D:\Week 07\CourseApp\CourseApp\obj\Debug\CourseApp.csproj.AssemblyReference.cache
+D:\Week 07\CourseApp\CourseApp\obj\Debug\CourseApp.csproj.CoreCompileInputs.cache
+D:\Week 07\CourseApp\CourseApp\obj\Debug\CourseApp.exe
+D:\Week 07\CourseApp\CourseApp\obj\Debug\CourseApp.pdb

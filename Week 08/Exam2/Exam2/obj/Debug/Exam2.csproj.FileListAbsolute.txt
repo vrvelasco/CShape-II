@@ -1,0 +1,7 @@
+D:\Week 08\Exam2\Exam2\bin\Debug\Exam2.exe.config
+D:\Week 08\Exam2\Exam2\bin\Debug\Exam2.exe
+D:\Week 08\Exam2\Exam2\bin\Debug\Exam2.pdb
+D:\Week 08\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+D:\Week 08\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+D:\Week 08\Exam2\Exam2\obj\Debug\Exam2.exe
+D:\Week 08\Exam2\Exam2\obj\Debug\Exam2.pdb

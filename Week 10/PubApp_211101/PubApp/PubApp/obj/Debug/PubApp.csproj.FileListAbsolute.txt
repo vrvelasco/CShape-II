@@ -1,0 +1,14 @@
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\bin\Debug\PubApp.exe.config
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\bin\Debug\PubApp.exe
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\bin\Debug\PubApp.pdb
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\obj\Debug\PubApp.csproj.AssemblyReference.cache
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\obj\Debug\PubApp.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\obj\Debug\PubApp.exe
+C:\Users\student\OneDrive - swic.edu\262\InClass\PubApp\PubApp\obj\Debug\PubApp.pdb
+D:\Week 10\PubApp_211101\PubApp\PubApp\bin\Debug\PubApp.exe.config
+D:\Week 10\PubApp_211101\PubApp\PubApp\bin\Debug\PubApp.exe
+D:\Week 10\PubApp_211101\PubApp\PubApp\bin\Debug\PubApp.pdb
+D:\Week 10\PubApp_211101\PubApp\PubApp\obj\Debug\PubApp.csproj.AssemblyReference.cache
+D:\Week 10\PubApp_211101\PubApp\PubApp\obj\Debug\PubApp.csproj.CoreCompileInputs.cache
+D:\Week 10\PubApp_211101\PubApp\PubApp\obj\Debug\PubApp.exe
+D:\Week 10\PubApp_211101\PubApp\PubApp\obj\Debug\PubApp.pdb
