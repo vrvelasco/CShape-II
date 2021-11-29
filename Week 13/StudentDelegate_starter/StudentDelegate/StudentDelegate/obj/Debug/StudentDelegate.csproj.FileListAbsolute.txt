@@ -1,0 +1,14 @@
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.exe.config
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.exe
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.pdb
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.exe
+C:\Users\Tim\OneDrive\1211\262\working\week14\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.pdb
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.exe.config
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.exe
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\bin\Debug\StudentDelegate.pdb
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.csproj.AssemblyReference.cache
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.csproj.CoreCompileInputs.cache
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.exe
+D:\Week 13\StudentDelegate_starter\StudentDelegate\StudentDelegate\obj\Debug\StudentDelegate.pdb

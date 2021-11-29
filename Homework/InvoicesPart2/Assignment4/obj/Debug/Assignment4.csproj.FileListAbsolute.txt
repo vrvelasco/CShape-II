@@ -1,0 +1,14 @@
+E:\Homework\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+E:\Homework\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+E:\Homework\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+E:\Homework\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+E:\Homework\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+E:\Homework\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+E:\Homework\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+D:\Homework\InvoicesPart2\Assignment4\bin\Debug\Assignment4.exe.config
+D:\Homework\InvoicesPart2\Assignment4\bin\Debug\Assignment4.exe
+D:\Homework\InvoicesPart2\Assignment4\bin\Debug\Assignment4.pdb
+D:\Homework\InvoicesPart2\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+D:\Homework\InvoicesPart2\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\Homework\InvoicesPart2\Assignment4\obj\Debug\Assignment4.exe
+D:\Homework\InvoicesPart2\Assignment4\obj\Debug\Assignment4.pdb
