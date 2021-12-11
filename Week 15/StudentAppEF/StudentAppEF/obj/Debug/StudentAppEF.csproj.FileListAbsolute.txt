@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\StudentAppEF.exe.config
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\StudentAppEF.exe
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\StudentAppEF.pdb
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\obj\Debug\StudentAppEF.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\obj\Debug\StudentAppEF.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\obj\Debug\StudentAppEF.exe
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\obj\Debug\StudentAppEF.pdb
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\Students.mdf
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\Students_log.ldf
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\StudentAppEF\StudentAppEF\obj\Debug\StudentAppEF.csproj.CopyComplete
