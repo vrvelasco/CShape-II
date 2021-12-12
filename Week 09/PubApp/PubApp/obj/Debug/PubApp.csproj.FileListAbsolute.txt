@@ -1,0 +1,7 @@
+D:\Week 09\PubApp\PubApp\bin\Debug\PubApp.exe.config
+D:\Week 09\PubApp\PubApp\bin\Debug\PubApp.exe
+D:\Week 09\PubApp\PubApp\bin\Debug\PubApp.pdb
+D:\Week 09\PubApp\PubApp\obj\Debug\PubApp.csproj.AssemblyReference.cache
+D:\Week 09\PubApp\PubApp\obj\Debug\PubApp.csproj.CoreCompileInputs.cache
+D:\Week 09\PubApp\PubApp\obj\Debug\PubApp.exe
+D:\Week 09\PubApp\PubApp\obj\Debug\PubApp.pdb

@@ -1,0 +1,7 @@
+D:\Homework\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.exe.config
+D:\Homework\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.exe
+D:\Homework\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.pdb
+D:\Homework\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.csproj.AssemblyReference.cache
+D:\Homework\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.csproj.CoreCompileInputs.cache
+D:\Homework\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.exe
+D:\Homework\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.pdb

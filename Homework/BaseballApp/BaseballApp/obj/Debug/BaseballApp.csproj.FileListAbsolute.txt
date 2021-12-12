@@ -1,0 +1,28 @@
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\Baseball.mdf
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\Baseball_log.ldf
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\BaseballApp.exe.config
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\BaseballApp.exe
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\BaseballApp.pdb
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\EntityFramework.dll
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\EntityFramework.xml
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.AssemblyReference.cache
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.CoreCompileInputs.cache
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.CopyComplete
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\obj\Debug\BaseballApp.exe
+C:\Users\Victor Velasco\Desktop\BaseballApp\BaseballApp\obj\Debug\BaseballApp.pdb
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\Baseball.mdf
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\Baseball_log.ldf
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\BaseballApp.exe.config
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\BaseballApp.exe
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\BaseballApp.pdb
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\EntityFramework.dll
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\EntityFramework.xml
+D:\Homework\BaseballApp\BaseballApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homework\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.AssemblyReference.cache
+D:\Homework\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.CoreCompileInputs.cache
+D:\Homework\BaseballApp\BaseballApp\obj\Debug\BaseballApp.csproj.CopyComplete
+D:\Homework\BaseballApp\BaseballApp\obj\Debug\BaseballApp.exe
+D:\Homework\BaseballApp\BaseballApp\obj\Debug\BaseballApp.pdb

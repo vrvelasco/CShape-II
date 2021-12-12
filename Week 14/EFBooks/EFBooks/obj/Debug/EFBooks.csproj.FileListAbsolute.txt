@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\obj\Debug\EFBooks.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\obj\Debug\EFBooks.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\Books.mdf
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\Books_log.ldf
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EFBooks.exe.config
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EFBooks.exe
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EFBooks.pdb
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\obj\Debug\EFBooks.csproj.CopyComplete
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\obj\Debug\EFBooks.exe
+C:\Users\student\Desktop\Week 14\EFBooks\EFBooks\obj\Debug\EFBooks.pdb

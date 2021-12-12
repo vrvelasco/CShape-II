@@ -1,0 +1,30 @@
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\Employee.mdf
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\Employee_log.ldf
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.exe.config
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.exe
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.pdb
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.dll
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.xml
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.AssemblyReference.cache
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.CoreCompileInputs.cache
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.CopyComplete
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.exe
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.pdb
+C:\Users\Victor Velasco\Desktop\EmployeeApp3\EmployeeApp3\bin\Debug\Employee.cs
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\Employee.cs
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\Employee.mdf
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\Employee_log.ldf
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.exe.config
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.exe
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EmployeeApp3.pdb
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.dll
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.xml
+D:\Homework\EmployeeApp3\EmployeeApp3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homework\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.AssemblyReference.cache
+D:\Homework\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.CoreCompileInputs.cache
+D:\Homework\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.csproj.CopyComplete
+D:\Homework\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.exe
+D:\Homework\EmployeeApp3\EmployeeApp3\obj\Debug\EmployeeApp3.pdb

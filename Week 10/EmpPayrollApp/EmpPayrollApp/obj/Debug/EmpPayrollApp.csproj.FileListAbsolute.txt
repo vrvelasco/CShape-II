@@ -1,0 +1,7 @@
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\bin\Debug\EmpPayrollApp.exe.config
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\bin\Debug\EmpPayrollApp.exe
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\bin\Debug\EmpPayrollApp.pdb
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\obj\Debug\EmpPayrollApp.csproj.AssemblyReference.cache
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\obj\Debug\EmpPayrollApp.csproj.CoreCompileInputs.cache
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\obj\Debug\EmpPayrollApp.exe
+D:\Week 10\EmpPayrollApp\EmpPayrollApp\obj\Debug\EmpPayrollApp.pdb

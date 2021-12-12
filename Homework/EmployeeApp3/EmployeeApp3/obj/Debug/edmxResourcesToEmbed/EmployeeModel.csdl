@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="lastname" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="firstname" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="add1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="add2" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="city" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="state" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="zip" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="phone" Type="String" MaxLength="24" FixedLength="false" Unicode="true" />
+    <Property Name="deptcode" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="hiredate" Type="DateTime" Precision="3" />
+    <Property Name="jobcode" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <Property Name="comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="EmployeeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+  </EntityContainer>
+</Schema>
